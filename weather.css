@@ -1,0 +1,23 @@
+.cities{
+    
+    float: left;
+    padding-left: 40px;
+    margin-left: 20px;
+    text-decoration: none;
+ text-align: left;   line-height: 20px;
+
+}
+.data{
+padding-left: 40px;
+margin-left: 20px;
+line-height: 20px;
+text-align: left;
+    float: left;
+    text-transform: none;
+}
+.image2{
+    margin-left: 20px;
+}
+.image3{
+    margin-left: 20px;
+}
