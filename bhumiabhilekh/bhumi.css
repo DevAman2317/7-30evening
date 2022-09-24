@@ -36,3 +36,9 @@
         line-height: 50px;
         font-size: 20px;
     }
+    .border{
+        background-color: rgb(241, 118, 10);
+        width: 800px;
+        height: 450px;
+        text-align: center;
+    }
