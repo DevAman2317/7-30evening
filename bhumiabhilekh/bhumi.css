@@ -1,0 +1,44 @@
+.logo2{
+    position:absolute;
+    left: 2%;
+    top: 4%;
+    
+    }
+    .logo3{
+        float: right;
+        position: absolute;
+        top: 04%;
+        left: 90%;
+    
+    }
+    *{
+       margin: 0;
+       padding: 0;
+    }
+    .header{
+        background-color: orange;
+        height: 200px;
+        width: 100%;
+        text-align: center;
+        line-height: 60px;
+    
+
+    }
+    .left{
+        height: 900px;
+        width: 800px;
+    
+    }
+    .right{
+        position: absolute ;
+        left: 650px;
+        top: 200px;
+        line-height: 50px;
+        font-size: 20px;
+    }
+    .border{
+        background-color: rgb(241, 118, 10);
+        width: 800px;
+        height: 450px;
+        text-align: center;
+    }
