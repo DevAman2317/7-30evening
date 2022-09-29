@@ -2,6 +2,7 @@ header {
     background-color:rgb(164, 28, 213);
     color:white;
     text-align:center;
+    height: 70px;
     
 }
 nav {
@@ -9,12 +10,15 @@ nav {
     background-color:#1dd110;
     height:320px;
     width:100px;
+    
     float:left;
+
+    
     
 }
 section {
-    width: 780px;
-    height: 215px;
+    width: 800px;
+    height: 320px;
     float:left;
     padding: 00px;
     background-color: aqua;
