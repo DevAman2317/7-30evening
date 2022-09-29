@@ -1,0 +1,28 @@
+header {
+    background-color:rgb(164, 28, 213);
+    color:white;
+    text-align:center;
+    
+}
+nav {
+    line-height:30px;
+    background-color:#1dd110;
+    height:320px;
+    width:100px;
+    float:left;
+    
+}
+section {
+    width: 780px;
+    height: 215px;
+    float:left;
+    padding: 00px;
+    background-color: aqua;
+}
+footer {
+    background-color:rgb(240, 32, 150);
+    color:rgb(187, 182, 182);
+    clear:both;
+    text-align:center;
+
+}
