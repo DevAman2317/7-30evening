@@ -1,0 +1,42 @@
+.container{
+    border: 8px solid;
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    }
+    .table{
+        height: 200px;
+        width: 200px;
+        font-size: 30px;
+        color: antiquewhite;
+        text-align: center;
+    }
+    .left{
+        background-color: blueviolet;
+        height: 200px;
+        width: 200px;
+        font-size: 30px;
+        color: antiquewhite;
+        text-align: center;
+    
+    }
+    .center{
+        background-color: rgb(31, 20, 238);
+        height: 200px;
+        width: 200px;
+        font-size: 30px;
+        color: aliceblue;
+        text-align: center;
+
+    }
+    .right{
+        background-color: rgb(245, 28, 28);
+        height: 200px;
+        width: 200px;
+    
+        font-size: 30px;
+        text-align: center;
+        color: aliceblue;
+    }
+    
