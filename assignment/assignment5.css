@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    flex-basis:100px;
+}
+.header{
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    flex-basis: 100px;
+}
+.h2{
+    background-color:lawngreen ;
+    display: flex;
+    flex-grow:1 ;
+}
+.h3{
+    display: flex;
+    flex-grow: 1;
+    background-color:blueviolet
+    
+}
+.section{
+    display: flex;
+    flex-basis: 400px;
+    flex-direction: row;
+    background-color: aliceblue;
+}
+.c2{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 300px;
+ 
+background-color: rgb(234, 16, 16);
+}
+.red{
+    display: flex;
+    background-color: rgb(234, 16, 16);
+    flex-basis: 100px;
+}
+.pink{
+    display: flex;
+    background-color: deeppink;
+    flex-basis: 100px;
+}
+.blue{
+    display: flex;
+    background-color: blue;
+    flex-basis: 100px;
+}
+.grey{
+    display: flex;
+    background-color: gray;
+    flex-basis: 100px;
+}
+.c3{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 300px;
+
+    background-color: rgb(204, 50, 142);
+}
+.yellow{
+     display: flex;
+     flex-basis: 200px;
+    background-color: yellow;
+}
+.orange{
+display: flex;
+flex-basis: 200px;
+
+    background-color: orange;
+}
+.c4{
+    display: flex;
+    flex-direction: column;
+flex-basis: 300px;
+    background-color: rgb(64, 23, 167);
+}
+.khaki{
+    display: flex;
+    
+    display: flex;
+flex-basis: 200px; 
+
+    background-color: khaki;
+}
+.choklate{
+    display: flex;
+    display: flex;
+flex-basis: 200px; 
+
+    background-color: chocolate;
+}
+.c5{
+    display: flex;
+    flex-basis: 300px;
+    background-color: rgb(161, 204, 20);
+}
+.c6{
+    display: flex;
+    flex-basis: 300px;
+    background-color: rgb(38, 161, 8);
+}
+.footer{
+    display: flex;
+    flex-basis: 100px;
+}

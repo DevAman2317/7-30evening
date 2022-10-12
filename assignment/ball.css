@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height: 99vh;
+    width: 99vw;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+
+    background-color: rgb(233, 233, 38);
+    border-radius: 99%;
+    animation-name: main;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}
+@keyframes main {
+    0%{ transform: translate(00px); background-color: brown;}
+    20%{ transform: translate(400px,500px); background-color: burlywood;}
+    40%{ transform: translate(600px);background-color: chocolate;}
+    60%{ transform: translate(800px,500px);background-color: chartreuse;}
+    80%{ transform: translate(900px);background-color: yellow;}
+    99%{ transform: translate(1100px,500px);background-color: cornflowerblue;}
+}

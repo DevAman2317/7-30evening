@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lavender;
+}
+menu{
+    flex-basis: 2;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.a{
+
+}
