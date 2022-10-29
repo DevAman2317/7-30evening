@@ -144,7 +144,7 @@ menu ul .home ul {
     display: none;
     flex-basis: 99%;
     justify-content: space-evenly;
-}
+} 
 
 menu ul .home:hover ul {
     position: absolute;
