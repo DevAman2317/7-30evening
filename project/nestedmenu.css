@@ -254,10 +254,13 @@ img:hover{
 }
 img{
     outline: 5px solid rgb(145, 9, 170);
+    margin-left: 9px;
+    margin-top: 9px;
     
 }
 .a{
     outline: 5px solid rgb(145, 9, 170);
+    margin-top: 9px;
     
 }
 @media(max-width:480px) {
