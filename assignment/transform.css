@@ -1,0 +1,21 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+animation: infinite;
+animation-name: box ;
+animation-duration: 5s;
+
+
+}
+.box:hover{
+position: absolute;
+transform: rotate(45deg);
+
+}
+@keyframes box {
+    from{ background-color: yellow;}
+    to{ background-color: brown;transform:translateX(200px);}
+    
+}

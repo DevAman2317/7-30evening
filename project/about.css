@@ -1,0 +1,91 @@
+.header {
+    display: flex;
+    flex-basis: 20%;
+    box-shadow: 3px 0px 6px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 20%;
+    font-weight: bolder;
+}
+
+.nav {
+    flex-basis: 80%;
+}
+
+.nav ul {
+    display: flex;
+    font-weight: bold;
+    margin-left: 400px;
+    justify-content: space-around;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+b {
+    color: rgb(235, 17, 198);
+}
+
+h1 {
+    color: rgb(99, 49, 145);
+}
+
+li {
+    color: rgb(99, 49, 145);
+    list-style-type: none;
+}
+
+.button {
+    display: flex;
+
+    width: 100%;
+
+    justify-content: space-evenly;
+}
+.v{
+    font-size: small;
+    border: 2px solid crimson;
+    width: 200px;
+    padding: 5px;
+    border-radius: 9px;
+    background: linear-gradient(45deg, blue, red);
+    color: aliceblue;
+}
+.section{
+    display: flex;
+ flex-direction: row;
+    flex-basis:60%;
+    
+    
+}
+.sec3{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 40%;
+
+justify-content: center;
+align-items:center;
+padding-top: 50px;
+}
+.sec2{
+    display: flex;
+    flex-direction: column;
+    flex-basis: 50%;
+}
+h1{
+
+display: flex;
+justify-content: center;
+
+}
+
